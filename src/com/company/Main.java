@@ -32,7 +32,7 @@ public class Main {
         System.out.println(scamString);
 
     CSCAN cscan = new CSCAN();
-    String cscamString = "Algorytmu CSCAN : " + cscan.cscanAlgo(tasks);
+    String cscamString = "Algorytmu C-SCAN : " + cscan.cscanAlgo(tasks);
         System.out.println(cscamString);
 
     EDF edf = new EDF();

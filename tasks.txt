@@ -22,3 +22,11 @@ Algorytmu CSCAN : 1258
 Algorytmu EDF : 7061
 Algorytmu FD-SCAN : 1516
 
+Liczba przesunięć głowicy dla n = 100, czas pracy = 1000, wielkość dysku = 180, dla : 
+Algorytmu FCFS : 5880
+Algorytmu SSTF : 1244
+Algorytmu SCAN : 1168
+Algorytmu CSCAN : 1258
+Algorytmu EDF : 6172
+Algorytmu FD-SCAN : 1376
+

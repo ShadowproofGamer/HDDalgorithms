@@ -21,10 +21,10 @@ public class tasksGenerator {
         Random random = new Random();
         int i = 0;
         for(;i<n*0.70;i++){
-            tsaksList.add(new Task(i,random.nextInt(1,max) ,random.nextInt(1,activeTime),false));
+            tsaksList.add(new Task(i,random.nextInt(max)+1 ,random.nextInt(activeTime)+1,false));
         }
         for(;i<n;i++){
-            tsaksList.add(new Task(i,random.nextInt(1,max) ,random.nextInt(1,activeTime), true));
+            tsaksList.add(new Task(i,random.nextInt(max)+1 ,random.nextInt(activeTime)+1, true));
         }
 
         Collections.sort(tsaksList,new arrivalComparator());
