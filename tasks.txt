@@ -1,0 +1,24 @@
+Liczba przesunięć głowicy dla n = 1000, czas pracy = 3000000, wielkość dysku = 180, dla : 
+Algorytmu FCFS : 58861
+Algorytmu SSTF : 58867
+Algorytmu SCAN : 59273
+Algorytmu CSCAN : 91307
+Algorytmu EDF : 58955
+Algorytmu FD-SCAN : 58955
+
+Liczba przesunięć głowicy dla n = 100, czas pracy = 1000, wielkość dysku = 180, dla : 
+Algorytmu FCFS : 5840
+Algorytmu SSTF : 1146
+Algorytmu SCAN : 1189
+Algorytmu CSCAN : 1259
+Algorytmu EDF : 6238
+Algorytmu FD-SCAN : 1684
+
+Liczba przesunięć głowicy dla n = 100, czas pracy = 1000, wielkość dysku = 180, dla : 
+Algorytmu FCFS : 7151
+Algorytmu SSTF : 1263
+Algorytmu SCAN : 1216
+Algorytmu CSCAN : 1258
+Algorytmu EDF : 7061
+Algorytmu FD-SCAN : 1516
+
